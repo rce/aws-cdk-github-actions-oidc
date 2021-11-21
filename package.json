@@ -1,0 +1,22 @@
+{
+  "name": "aws-cdk-github-actions-oidc",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rce/aws-cdk-github-actions-oidc.git"
+  },
+  "author": "Henry Heikkinen <rce@rce.fi>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rce/aws-cdk-github-actions-oidc/issues"
+  },
+  "homepage": "https://github.com/rce/aws-cdk-github-actions-oidc#readme",
+  "devDependencies": {
+    "@aws-cdk/core": "^1.100.0",
+    "@aws-cdk/aws-iam": "^1.100.0"
+  },
+  "peerDependencies": {
+    "@aws-cdk/core": "^1.100.0",
+    "@aws-cdk/aws-iam": "^1.100.0"
+  }
+}
